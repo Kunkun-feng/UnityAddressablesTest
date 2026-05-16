@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3ace9c65a84bb1c42aa4f06675df0133
+  m_SerializeEntries:
+  - m_GUID: f7d3398931f47dc4fa4a4edeba1ec4c1
+    m_Address: Assets/Textures/realLandmine.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5f4f9c9bcb123564383893e4a2de8240, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 252cfd5fa4cd2124ea18093fdf7ffa8e, type: 2}
+    - {fileID: 11400000, guid: d34c5d9c9cd5cc4438e70b62891de6a5, type: 2}
